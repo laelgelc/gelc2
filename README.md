@@ -1,2 +1,2 @@
-# gelc2
+# genrepogelc 2
 Generic repo for GELC projects
